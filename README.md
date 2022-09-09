@@ -1,8 +1,7 @@
- -:       👋 Hi, I’m @cfpovedac90: Soy ingeniero electronico apacionado por la tecnologia y adentrandome al mundo de programacion, python, sql, java, html. 
-- 👀 I’m interested in .. Videojuegos, desarrollo web, ejercicios, aprender de todo.
-- 
+ -:       👋 Hi, I’m @cfpovedac90: Soy ingeniero electronico apacionado por la tecnologia, experiencia en proyectos de tecnologia y adentrandome al mundo de programacion, python, sql, java, html. 
+- 👀 I’m interested in .. Desarrollo web
+-  Proyectos - aplicaciones.
 - 🌱 I’m currently learning ..
-- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
 
 <!---
